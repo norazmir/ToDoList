@@ -1,8 +1,6 @@
 package com.norazmir.todolist.data
 
 import androidx.room.*
-import com.norazmir.todolist.ui.tasks.SortOrder
-import dagger.multibindings.IntoSet
 import kotlinx.coroutines.flow.Flow
 
 @Dao
